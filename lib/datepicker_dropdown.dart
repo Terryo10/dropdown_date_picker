@@ -282,7 +282,7 @@ class _DropdownDatePickerState extends State<DropdownDatePicker> {
                     ? DropdownButtonHideUnderline(
                         child: dayDropdown(),
                       )
-                    : dayDropdown(),
+                    : const SizedBox(),
               )),
             ),
           ),
@@ -300,7 +300,7 @@ class _DropdownDatePickerState extends State<DropdownDatePicker> {
                       ? DropdownButtonHideUnderline(
                           child: monthDropdown(),
                         )
-                      : monthDropdown(),
+                      : const SizedBox(),
                 ),
               ),
             ),
@@ -319,7 +319,7 @@ class _DropdownDatePickerState extends State<DropdownDatePicker> {
                       ? DropdownButtonHideUnderline(
                           child: yearDropdown(),
                         )
-                      : yearDropdown(),
+                      : const SizedBox(),
                 ),
               ),
             ),
