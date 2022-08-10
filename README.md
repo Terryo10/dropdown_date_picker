@@ -65,7 +65,6 @@ For more [Example](https://github.com/Robertrobinson777/datepicker_dropdown/tree
               // hintTextStyle: TextStyle(color: Colors.grey), // optional
             ),
 ```
-
 ## GitHub source code
 
 If you're interested on the code (feel free to modify it anyway you want), you can find it here: [https://github.com/Robertrobinson777/dropdown_date_picker](https://github.com/Robertrobinson777/dropdown_date_picker)
@@ -73,3 +72,4 @@ If you're interested on the code (feel free to modify it anyway you want), you c
 ## Support
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/robertrobinsonr)
+
